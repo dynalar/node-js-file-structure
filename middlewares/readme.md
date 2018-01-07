@@ -1,0 +1,1 @@
+MIDDLEWARES for EXPRESS go here. They process incoming requests before they get sent to the routes.

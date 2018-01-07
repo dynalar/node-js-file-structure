@@ -1,0 +1,1 @@
+CONTROLLERS go here. This defines all of our app routes and the logic for the routes.

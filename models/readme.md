@@ -1,0 +1,1 @@
+DATA and BUSINESS LOGIC and STORAGE HANDLING go here. Database related models will be declared here for the project. Can be done in Mongoose.

@@ -1,0 +1,1 @@
+STATIC and PUBLIC files go here. This includes styles, javascript, and images.
