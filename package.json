@@ -6,8 +6,9 @@
   "directories": {
     "test": "tests"
   },
+  "_comment": "the scripts below are run like so 'npm <script_name'",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
