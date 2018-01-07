@@ -1,0 +1,25 @@
+{
+  "name": "node_js_file_structure",
+  "version": "1.0.0",
+  "description": "Basic file structure for my NodeJS projects.",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chromaticity/node_js_file_structure.git"
+  },
+  "author": "Brandon Antillon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chromaticity/node_js_file_structure/issues"
+  },
+  "homepage": "https://github.com/chromaticity/node_js_file_structure#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
