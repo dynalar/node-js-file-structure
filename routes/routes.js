@@ -10,6 +10,12 @@ routes.get('/', (req, res) => {
   });
 });
 
+routes.get('/test', (req, res) => {
+  res.status(200).json({ 
+  	message: 'This is your test route.',
+  });
+});
+
 
 // export routes, so they can be used in the require statement in app.js
 module.exports = routes;
